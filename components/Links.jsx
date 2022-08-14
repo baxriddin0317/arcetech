@@ -22,31 +22,31 @@ function Links() {
 
         <div className='max-w-7.5xl mx-auto flex items-center flex-wrap justify-center gap-10'>
             <Link href="/">
-                <Image src={Link1} />
+                <Image src={Link1} alt="rasmda" />
             </Link>
             <Link href="/">
-                <Image src={Link2} />
+                <Image src={Link2} alt="rasmda" />
             </Link>
             <Link href="/">
-                <Image src={Link3} />
+                <Image src={Link3} alt="rasmda" />
             </Link>
             <Link href="/">
-                <Image src={Link4} />
+                <Image src={Link4} alt="rasmda" />
             </Link>
             <Link href="/">
-                <Image src={Link5} />
+                <Image src={Link5} alt="rasmda" />
             </Link>
             <Link href="/">
-                <Image src={Link6} />
+                <Image src={Link6} alt="rasmda" />
             </Link>
             <Link href="/">
-                <Image src={Link7} />
+                <Image src={Link7} alt="rasmda" />
             </Link>
             <Link href="/">
-                <Image src={Link8} />
+                <Image src={Link8} alt="rasmda" />
             </Link>
             <Link href="/">
-                <Image src={Link9} />
+                <Image src={Link9} alt="rasmda" />
             </Link>
         </div>
     </section>

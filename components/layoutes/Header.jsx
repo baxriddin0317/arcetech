@@ -50,7 +50,7 @@ function Header() {
         <div className="flex items-center justify-between">
           {/* logo */}
           <Link href="/" >
-            <a ><Image src={Logo} /></a>
+            <a ><Image src={Logo} alt="rasmda" /></a>
           </Link>
 
           {/* nav */}
@@ -87,7 +87,7 @@ function Header() {
         <div className='flex items-center justify-between py-4 px-4'>
           {/* logo */}
           <Link href="/" >
-            <a ><Image src={Logo} /></a>
+            <a ><Image src={Logo} alt="rasmda" /></a>
           </Link>
 
           {/* close btn */}
@@ -108,7 +108,7 @@ function Header() {
               </h3>
               <div className='flex text-xl flex-col pl-4'>
                 {menu.items && menu.items.map((link, i) => (
-                  <Link href={link.href} >
+                  <Link href={link.href} key={i} >
                     <a>{link.name}</a>
                   </Link>
                 ))}

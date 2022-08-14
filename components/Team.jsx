@@ -26,7 +26,7 @@ function Team() {
                 </h3>
                 <ul className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-8'>
                     <li className='flex flex-col'>
-                        <Image src={Person1} width={228} />
+                        <Image src={Person1} width={228} alt="rasmda" />
                         <h2 className='text-xl font-semibold mb-10 mt-5'>
                             Ryan Farell<br/>
                             CEO, Machine Learning
@@ -37,7 +37,7 @@ function Team() {
                         </p>
                     </li>
                     <li className='flex flex-col'>
-                        <Image src={Person2} width={228} />
+                        <Image src={Person2} width={228} alt="rasmda" />
                         <h2 className='text-xl font-semibold mb-10 mt-5'>
                         Chandrajit Bajaj, PhD<br/>
                         Machine Learning
@@ -48,7 +48,7 @@ function Team() {
                         </p>
                     </li>
                     <li className='flex flex-col'>
-                        <Image src={Person3} width={228} />
+                        <Image src={Person3} width={228} alt="rasmda" />
                         <h2 className='text-xl font-semibold mb-10 mt-5'>
                         Sean McLean<br/>
                         Data Engineering
@@ -68,7 +68,7 @@ function Team() {
                 </h3>
                 <ul className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-8 items-start'>
                     <li className='flex flex-col'>
-                        <Image src={Person4} width={228} />
+                        <Image src={Person4} width={228} alt="rasmda" />
                         <h2 className='text-xl font-semibold mb-10 mt-5'>
                         Anson Hwang <br/>
                         Advisor + Investor
@@ -80,7 +80,7 @@ function Team() {
                         </p>
                     </li>
                     <li className='flex flex-col'>
-                        <Image src={Person5} width={228} />
+                        <Image src={Person5} width={228} alt="rasmda" />
                         <h2 className='text-xl font-semibold mb-10 mt-5'>
                         Alex Garcia <br/>
                         Advisor 
@@ -92,7 +92,7 @@ function Team() {
                         </p>
                     </li>
                     <li className='flex flex-col'>
-                        <Image src={Person6} width={228} />
+                        <Image src={Person6} width={228} alt="rasmda" />
                         <h2 className='text-xl font-semibold mb-10 mt-5'>
                         Mike Sacks<br/>
                         Advisor

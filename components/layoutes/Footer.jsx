@@ -9,9 +9,9 @@ function Footer() {
     <footer className='max-w-8xl mx-auto px-2.5 lg:px-1.5 pt-24 pb-60'>
       <div className='grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-y-11 gap-x-16'>
         <div>
-          <a href="/">
-            <Image src={Logo} />
-          </a>
+          <Link href="/">
+            <Image src={Logo} alt="rasmda" />
+          </Link>
         </div>
         <div className='flex flex-col'>
           <h2 className='text-xl font-medium mb-1.5'>

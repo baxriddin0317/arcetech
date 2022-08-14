@@ -54,7 +54,7 @@ function search() {
                     Data
                     </p>
                     <div className='w-full rounded-xl'>
-                    <Image src={Geology1} />
+                    <Image src={Geology1} alt="rasmda" />
                     </div>
                 </div>
                 <div className='flex lg:flex-row flex-col items-start gap-12'>
@@ -63,7 +63,7 @@ function search() {
                     Data
                     </p>
                     <div className='w-full rounded-xl'>
-                    <Image src={Geology2} />
+                    <Image src={Geology2} alt="rasmda" />
                     </div>
                 </div>
             </div>

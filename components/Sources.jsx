@@ -19,23 +19,23 @@ function Sources() {
                 <div className='flex flex-row xl:flex-col items-start xl:items-center gap-2 xl:gap-0 rounded-lg bg-sources-gray p-1 xl:w-[420px] h-full xl:h-844 '>
                     <div className='flex w-full flex-col-reverse xl:flex-row items-center xl:relative z-50'>
                         <p className='xl:text-right xl:w-1/3 text-sources-sm md:text-headline-sm'>Seismic Data</p>
-                        <Image src={Black} />
+                        <Image src={Black} alt="rasmda" />
                     </div>
                     <div className='flex w-full items-center flex-col-reverse xl:flex-row xl:relative z-40 -top-20 '>
                         <p className='xl:text-right xl:w-1/3 text-sources-sm md:text-headline-sm'>Geological Maps</p>
-                        <Image src={Black} />
+                        <Image src={Black} alt="rasmda" />
                     </div>
                     <div className='flex w-full items-center flex-col-reverse xl:flex-row xl:relative z-30 -top-40'>
                         <p className='xl:text-right xl:w-1/3 text-sources-sm md:text-headline-sm'>Well Logs</p>
-                        <Image src={Black} />
+                        <Image src={Black} alt="rasmda" />
                     </div>
                     <div className='flex w-full items-center flex-col-reverse xl:flex-row xl:relative z-20 -top-60'>
                         <p className='xl:text-right xl:w-1/3 text-sources-sm md:text-headline-sm'>Historical Completions</p>
-                        <Image src={Black} />
+                        <Image src={Black} alt="rasmda" />
                     </div>
                     <div className='flex w-full items-center flex-col-reverse xl:flex-row xl:relative z-10 -top-80'>
                         <p className='xl:text-right xl:w-1/3 text-sources-sm md:text-headline-sm'>Historical Production</p>
-                        <Image src={Black} />
+                        <Image src={Black} alt="rasmda" />
                     </div>
                 </div>
             </li>

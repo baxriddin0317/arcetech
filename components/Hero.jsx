@@ -21,10 +21,10 @@ function Hero() {
                 <li className='text-center z-50 bg-drill xl:dril__item'>
                     <div className='flex xl:flex-col items-center text-left xl:text-center md:px-2.5 xl:w-200 p-1'>
                         <div className='hidden xl:inline m-0 -ml-24'>
-                            <Image src={Logo} width={134} height={34} />    
+                            <Image src={Logo} width={134} height={34} alt="rasmda" />    
                         </div>                    
                         <div className='max-w-full'>
-                        <Image src={Item1} width={178} height={178} />
+                        <Image src={Item1} width={178} height={178} alt="rasmda" />
                         </div>
                         <div>
                             <p className='underline text-lg'>SE.1 “Well Searcher”</p>
@@ -38,10 +38,10 @@ function Hero() {
                 <li className='text-center z-40 bg-drill xl:dril__item'>
                     <div className='flex xl:flex-col items-center text-left xl:text-center md:px-2.5 xl:w-200 p-1'>
                         <div className='hidden xl:block m-0 -ml-24'>
-                        <Image src={Logo} width={134} height={34} />    
+                        <Image src={Logo} width={134} height={34} alt="rasmda" />    
                         </div>                    
                         <div className='max-w-full'>
-                        <Image src={Item2} width={178} height={178} />
+                        <Image src={Item2} width={178} height={178} alt="rasmda" />
                         </div>
                         <div>
                             <p className='underline text-lg'>                    
@@ -57,9 +57,9 @@ function Hero() {
                 <li className='text-center z-30 bg-drill xl:dril__item'>
                     <div className='flex xl:flex-col items-center text-left xl:text-center md:px-2.5 xl:w-200 p-1'>
                         <div className='hidden xl:block m-0 -ml-24'>
-                        <Image src={Logo} width={134} height={34} />    
+                        <Image src={Logo} width={134} height={34} alt="rasmda" />    
                         </div>                    
-                        <Image src={Item3} width={178} height={178} />
+                        <Image src={Item3} width={178} height={178} alt="rasmda" />
                         <div>
                             <p className='underline text-lg'>                    
                             EXT.1 “Data Extracter”
@@ -74,9 +74,9 @@ function Hero() {
                 <li className='text-center z-20 bg-drill xl:dril__item'>
                     <div className='flex xl:flex-col items-center text-left xl:text-center md:px-2.5 xl:w-200 p-1'>
                         <div className='hidden xl:block m-0 -ml-24'>
-                        <Image src={Logo} width={134} height={34} />    
+                        <Image src={Logo} width={134} height={34} alt="rasmda" />    
                         </div>                    
-                        <Image src={Item4} width={178} height={178} />
+                        <Image src={Item4} width={178} height={178} alt="rasmda" />
                         <div>
                         <p className='underline text-lg'>                    
                         RV.1: “Reservoir Modeler”
@@ -91,9 +91,9 @@ function Hero() {
                 <li className='text-center z-10 bg-drill xl:dril__item'>
                     <div className='flex xl:flex-col items-center text-left xl:text-center md:px-2.5 xl:w-200 p-1'>
                         <div className='hidden xl:block m-0 -ml-24'>
-                        <Image src={Logo} width={134} height={34} />    
+                        <Image src={Logo} width={134} height={34} alt="rasmda" />    
                         </div>                    
-                        <Image src={Item5} width={178} height={178} />
+                        <Image src={Item5} width={178} height={178} alt="rasmda" />
                         <div>
                             <p className='underline text-lg'>
                             PL.1 “Well Planner”
