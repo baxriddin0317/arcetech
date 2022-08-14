@@ -2,7 +2,7 @@ import React from 'react'
 import Image from "next/image"
 
 import Black from "../public/assets/blackKub.png"
-import White from "../public/assets/whiteKub.png"
+import White from "../public/assets/whitekub.png"
 import Blue from "../public/assets/blueKub.png"
 import Btn from './buttons/Btn'
 
