@@ -41,7 +41,7 @@ function Sources() {
             </li>
             <li>
                 <div className='flex flex-col rounded-lg bg-sources-gray p-6'>
-                    <Image src={Blue} />
+                    <Image src={Blue} alt="rasmda" />
                     <h3 className='font-semibold text-center mb-4'>
                         AcreTech AI Drill Ops Suite
                     </h3>
@@ -54,20 +54,20 @@ function Sources() {
                 <h3 className='text-headline-lg mb-8 text-center font-normal'>Decision-Ready Outputs</h3>
                 <div className='flex flex-row xl:flex-col  items-start xl:items-center gap-2 xl:gap-0 rounded-lg xl:w-[420px] bg-sources-gray p-6 xl:pt-28 xl:h-844 '>
                     <div className='flex w-full flex-col xl:flex-row items-center xl:relative z-50'>
-                        <Image src={White} />
+                        <Image src={White} alt="rasmda" />
                         <p className='text-left text-sources-sm md:text-headline-sm xl:w-2/3'>Optimal
                         Drilling Plan</p>
                     </div>
                     <div className='flex w-full flex-col xl:flex-row items-center xl:relative z-40 -top-10 '>
-                        <Image src={White} />
+                        <Image src={White} alt="rasmda" />
                         <p className='text-left text-sources-sm md:text-headline-sm xl:w-2/3'>Hydrocarbon Density Maps</p>
                     </div>
                     <div className='flex w-full flex-col xl:flex-row items-center xl:relative z-30 -top-20'>
-                        <Image src={White} />
+                        <Image src={White} alt="rasmda" />
                         <p className='text-left text-sources-sm md:text-headline-sm xl:w-2/3'>Production Forecasts</p>
                     </div>
                     <div className='flex w-full flex-col xl:flex-row items-center xl:relative z-20 -top-28'>
-                        <Image src={White} />
+                        <Image src={White} alt="rasmda" />
                         <p className='text-left text-sources-sm md:text-headline-sm xl:w-2/3'>Decision-Ready Reservoir Model</p>
                     </div>
                 </div>
