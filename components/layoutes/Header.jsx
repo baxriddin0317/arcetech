@@ -64,9 +64,11 @@ function Header() {
               </li>
             ))}
             <li>
-              <button className='bg-black py-5 px-10 text-xl border border-white rounded-lg '>
-              Talk to Sales
-              </button>
+              <Link href="/contact">
+                <a className='bg-black py-5 px-10 text-xl border border-white rounded-lg hover:bg-white hover:text-black'>
+                Talk to Sales
+                </a>
+              </Link>
             </li>
             </ul>
           </nav>

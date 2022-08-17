@@ -12,8 +12,12 @@ import Btn from './buttons/Btn';
 function Hero() {
   return (
     <section className='max-w-8xl mx-auto px-4 lg:px-1.5 mt-16'>
-        <h1 className='text-hero-sm md:text-7xl xl:text-10xl bg-text-gradeint bg-clip-text text-transparent mb-4 text-center lg:text-left'>Drill Ops Suite</h1>
-        <p className='text-4xl lg:text-headline-lg text-center lg:text-left mb-5'>How and Where to Drill.</p>
+        <h1 className='text-hero-sm md:text-7xl xl:text-10xl bg-text-gradeint bg-clip-text text-transparent mb-4 text-center lg:text-left'>
+            Drill Ops Suite
+        </h1>
+        <p className='text-4xl lg:text-headline-lg text-center lg:text-left mb-5'>
+            How and Where to Drill.
+        </p>
         
         <div className='max-w-6.5xl mx-auto'>
             {/* List items */}
